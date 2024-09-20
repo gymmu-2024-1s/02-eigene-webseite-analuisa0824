@@ -33,5 +33,14 @@ body {
 }
 
 .image {
-    width: 300px;
+    text-align: center;
+}
+
+.image img {
+    width: 70%;
+}
+
+h1 {
+    font-family: monospace;
+    color: white;
 }
