@@ -42,5 +42,12 @@ body {
 
 h1 {
     font-family: monospace;
-    color: white;
+    color: pink;
+}
+.my-box {
+    background-color: lightgray;
+    width: 400px;
+    height: 125px;
+    margin: 0px;
+    padding: 20px;
 }
