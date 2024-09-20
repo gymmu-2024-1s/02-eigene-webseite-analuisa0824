@@ -7,6 +7,7 @@
 /* Hier können Stiele für die ganze Webseite angegeben werden. */
 body {
     margin: 0;
+    background: midnightblue;
 }
 
 /* Hier werden 2 Elemente nebeneinander gepackt.
@@ -29,4 +30,24 @@ body {
 .text-and-img img {
     border-radius: 2rem; /* Damit können die Ecken abgerundet werden. */
     width: 100%; /* Braucht es damit das Bild im Container bleibt und nicht viel zu gross ist. */
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    width: 70%;
+}
+
+h1 {
+    font-family: monospace;
+    color: pink;
+}
+.my-box {
+    background-color: lightgray;
+    width: 400px;
+    height: 125px;
+    margin: 0px;
+    padding: 20px;
 }
